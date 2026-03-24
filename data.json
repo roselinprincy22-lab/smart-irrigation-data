@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "Farmer_Name": "Ravi Kumar",
+      "Field_ID": "FLD01",
+      "Moisture_Level": 35,
+      "Temperature": 30
+    },
+    {
+      "Farmer_Name": "Suresh",
+      "Field_ID": "FLD02",
+      "Moisture_Level": 20,
+      "Temperature": 32
+    }
+  ]
+}
